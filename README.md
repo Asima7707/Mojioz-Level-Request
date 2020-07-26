@@ -1,8 +1,33 @@
 > # Level Request - July 16
+> > Friendly Note: Please go to sleep after this little hard working Mojitoz
 >---
-> Level name: SoAp OpErA
-> Creator: ItsBon and R4nchi
-> ID: 62763027
-> Difficulty: Demon 10*
-> Video: https://youtu.be/THUya4pNYTQ
-> Opinion: Featured Worthy
+ | Level Names        | ID       |  Creator  |   Opinion    | Video |
+ | ------------- |:---------------:| --------:| -------------:| ------------:|
+ |  SoAp OpErA  | 62763027 | ItsBon and R4nchi | Featured Worthy 10 ⭐ | [Video](https://youtu.be/THUya4pNYTQ)
+ |  Attack On Titan 2  | 61313872 | AltairGalaxy | Rate Worthy 7 ⭐| [Video](https://youtu.be/SzTi_EsKDQE)
+ |  Vinity  | 62503564 | lilT3ddy | Featured Worthy 10 ⭐ | [Video](https://youtu.be/GBhVRkKgPKo)
+ |  Leisure  | 62765068 | Geox01 | Featured Worthy 6 ⭐ | [Video](https://youtu.be/HuRynNbzJL8)
+ |  Nana  | 62661780 | Kirzok and Elysium Team | Featured Worthy 10 ⭐ | [Video](https://youtu.be/iUXuem-fv6A)
+ |  King Midas  | 60857055 | ShauxFix | Featured Worthy 8 ⭐ | [Video](https://youtu.be/9R936E7J1Os)
+ | astozis   | 62566798 | catronixGD and more | Featured Worthy 10 ⭐ | [Video](https://youtu.be/dkW1O7uPt1g)
+ |  Tenth Circle  | 62592746 | DeniPol | Rate Worthy 10 ⭐ | [Video](https://www.youtube.com/watch?v=YMAGFV6E-f8)
+ | Insomnia   | 62088344 | WhirL | Featured Worthy 10 ⭐ | [Video](https://youtu.be/oWk4jWIoM2w)
+ | DisKOTekA KreVetKa   | 62722670 | Wintter team | Rate Worthy 10 ⭐ | [Video](https://youtu.be/eg6s0Q010jM)
+ |  Yeet On You  | 62504380 |Wintter  | Featured Worthy 8 ⭐ | [Video](https://www.youtube.com/watch?v=Ndrqo2jfac8)
+ |  The Bandere  | 62676629 | Ka1ns | Featured Worthy 10 ⭐ | [Video](https://www.youtube.com/watch?v=cyGXhjqZBhU)
+ |  Vinity   | 62503564 | lilT3ddy | Featured Worthy 10 ⭐ | [Video](https://youtu.be/GBhVRkKgPKo)
+ |  Polar  | 59140058 | BlackWolf436 | Featured Worthy 4 ⭐ | [Video](https://youtu.be/7IxLgtyIWbI)
+ |  Managua  | 60766974 | Hermar & CreatorRT | Featured Worthy 3 ⭐ | [Video](https://youtu.be/lqfKBm9o9h0)
+ |  Arctic  | 62784044 | Sting871 team | Featured Worthy 8 ⭐ | [Video](https://youtu.be/MyrWv2w7DOY)
+ | The Monitor   |  62495334| Vilms | Featured Worthy 10 ⭐ | [Video](https://youtu.be/DLk4Y_9H6hI)
+ | serene   | 59623607 | Numptaloid | Featured Worthy - ⭐ | [Video](https://www.youtube.com/watch?v=iw3NaJSAl5U)
+ |  Azucar  | 62801721 | itzPyrox | Rate Worthy 10 ⭐ | [Video](https://youtu.be/5xRVBbyQ0_A)
+ |  Thanatophobia  | 62809982 | Artumanka & more | Rate Worthy 10 ⭐ | [Video](https://www.youtube.com/watch?v=BiX15JU1lsM&feature=youtu.be)
+ |  Scars  | 60837411 |BlackWolf436  | Rate Worthy 6-7 ⭐ | [Video](https://youtu.be/qBto2i7DX-4)
+ |  Elegant Landscape  |62499940  | TheGalaxyCat | Featured Worthy 2-3 ⭐ | [Video](https://youtu.be/Md9o-eKmhvA)
+ |  Make It  | 60890277 | RobZenW  | Rate Worthy 10 ⭐ | [Video](https://youtu.be/JC2GI2ELo3U)
+ |  Jazzy Jack64  | 62819942 |GiggsRH and more  | Rate Worthy 9-10 ⭐ | [Video](https://youtu.be/LV3sz3BI_28)
+ |  Countdown   | 62826816 |GMD Max  | Rate Worthy 8 ⭐ | [Video](https://www.youtube.com/watch?v=etLNxZ6MS2U)
+ |  Edra   | 56774390 |Dangnghi  | Rate Worthy 10 ⭐ | [Video](https://youtu.be/DE_yIoi_x3Q)
+ |  Enigmatic   | 62833659 |Dangnghi  | Rate Worthy 7 ⭐ | [Video](https://youtu.be/rNkN6Kcmmy4)
+| Optimistic nihilism | 62850508 | Marrk | Featured Worthy 5 ⭐ | [Video](https://youtu.be/utq8ADjz0eo)
